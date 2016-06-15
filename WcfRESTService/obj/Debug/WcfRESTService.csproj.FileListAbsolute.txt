@@ -1,0 +1,6 @@
+c:\users\ffiaux\documents\visual studio 2015\Projects\WcfRESTService\WcfRESTService\bin\WcfRESTService.dll.config
+c:\users\ffiaux\documents\visual studio 2015\Projects\WcfRESTService\WcfRESTService\bin\WcfRESTService.dll
+c:\users\ffiaux\documents\visual studio 2015\Projects\WcfRESTService\WcfRESTService\bin\WcfRESTService.pdb
+c:\users\ffiaux\documents\visual studio 2015\Projects\WcfRESTService\WcfRESTService\obj\Debug\WcfRESTService.csprojResolveAssemblyReference.cache
+c:\users\ffiaux\documents\visual studio 2015\Projects\WcfRESTService\WcfRESTService\obj\Debug\WcfRESTService.dll
+c:\users\ffiaux\documents\visual studio 2015\Projects\WcfRESTService\WcfRESTService\obj\Debug\WcfRESTService.pdb
